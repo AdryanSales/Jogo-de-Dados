@@ -1,0 +1,7 @@
+C:\Users\adrya\OneDrive\Documentos\DSN - Etec\PA\JOGO21\JOGO21\bin\Debug\JOGO21.exe
+C:\Users\adrya\OneDrive\Documentos\DSN - Etec\PA\JOGO21\JOGO21\bin\Debug\JOGO21.pdb
+C:\Users\adrya\OneDrive\Documentos\DSN - Etec\PA\JOGO21\JOGO21\obj\Debug\JOGO21.csprojResolveAssemblyReference.cache
+C:\Users\adrya\OneDrive\Documentos\DSN - Etec\PA\JOGO21\JOGO21\obj\Debug\JOGO21.MainForm.resources
+C:\Users\adrya\OneDrive\Documentos\DSN - Etec\PA\JOGO21\JOGO21\obj\Debug\JOGO21.csproj.GenerateResource.Cache
+C:\Users\adrya\OneDrive\Documentos\DSN - Etec\PA\JOGO21\JOGO21\obj\Debug\JOGO21.exe
+C:\Users\adrya\OneDrive\Documentos\DSN - Etec\PA\JOGO21\JOGO21\obj\Debug\JOGO21.pdb
